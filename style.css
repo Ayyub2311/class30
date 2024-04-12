@@ -1,0 +1,126 @@
+h1 {
+    color: aqua;
+    text-align: center;
+    font-size: xx-large;
+    border: 0.02px solid rebeccapurple;
+    width: max-content;
+    margin: 10px;
+    padding: 4px;
+}
+
+body {
+    background-color: goldenrod;
+}
+
+p {
+    color: black;
+    background-color: wheat;
+    border: 5px solid red;
+    text-align: center;
+    font-size: xx-small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: max-content;
+    margin: auto;
+    padding: auto;
+}
+
+h2 {
+    color: aliceblue;
+    text-align: center;
+    width: max-content;
+    margin: 59px;
+    padding: 23px;
+}
+
+h3 {
+    color: red;
+    text-align: center;
+    font-size: small;
+    background-color: ghostwhite;
+    border: 20px solid salmon;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: max-content;
+    margin: 58px;
+    padding: 23px;
+}
+
+h4 {
+    color: bisque;
+    text-align: center;
+    border: 10px solid green;
+    width: max-content;
+    margin: 49px;
+    padding: 18px;
+}
+
+h5 {
+    color: blanchedalmond;
+    text-align: center;
+    border: 2px solid orange;
+    width: max-content;
+    margin: 20px;
+    padding: 5px;
+}
+
+h6 {
+    color: blueviolet;
+    text-align: center;
+    border: 0.5px solid purple;
+    width: max-content;
+    height: 20px;
+    margin: auto;
+}
+
+
+ul{
+    background: red;
+    color: green; 
+    padding: 5px 25px;
+    margin: 5px 10px;
+    text-align: center;
+    width: 50px;
+    font-size: 15px;
+    border: 10px solid green;  
+}
+ol {
+    background: red;
+    color: green; 
+    padding: 5px 35px;
+    margin: 5px 1070px;
+    text-align: center;
+    width: 60px;
+    font-size: 15px;
+    border: 10px solid green;  
+}
+
+.box{
+    margin: 10px auto;
+    border-radius: 50%;
+    border: 10px solid black;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+}
+
+.red{
+    background: rgb(225, 15, 15);
+}
+.yellow{
+  background: rgb(194, 194, 14);  
+}
+
+.green{
+    background: rgb(4, 158, 4);
+}
+
+.block{
+    width: 100%;
+    height: 20px;
+    background: black;
+}
+.svet{
+    border: 20px solid rgba(128, 128, 128, 0.217);
+    margin: 50px auto;
+    background: black;
+    width: 200px;
+}
